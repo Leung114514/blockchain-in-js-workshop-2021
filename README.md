@@ -41,7 +41,7 @@ https://github.com/Leung114514/blockchain-in-js-workshop-2021/commit
 ## 第一课代码
 
 
-### 代码 commint 地址
+### 代码 commit 地址
 
 https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
 
@@ -63,7 +63,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 ## 第二课代码
 
 
-### 代码 commint 地址
+### 代码 commit 地址
 
 https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
 
