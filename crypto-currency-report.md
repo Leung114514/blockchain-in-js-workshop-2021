@@ -23,7 +23,8 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/02778537
 
 > 将截图上传至网盘，放入链接即可
 
-![](链接)
+链接：https://pan.baidu.com/s/18kHmcwqCN_T8hLGMxVpW2Q?pwd=45le 
+提取码：45le
 
 
 ### 主观与讨论题内容
