@@ -28,6 +28,26 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/02778537
 
 
 ### 主观与讨论题内容
+
+
+## 第二课代码
+
+
+### 代码 commint 地址
+
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+
+
+### 代码截图
+
+> 将截图上传至网盘，放入链接即可
+
+![](链接)
+
+
+### 主观与讨论题内容
+
+---
 #### 字典树优缺点
 字典树（Trie树）是一种用于字符串查找的数据结构，它的优点和缺点如下：
 优点：
@@ -51,25 +71,6 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/02778537
 总之，扩展和优化字典树数据结构可以提高查询和存储效率，从而使得字典树可以更广泛地应用于实际情况。
 
 
-
-## 第二课代码
-
-
-### 代码 commint 地址
-
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
-
-
-### 代码截图
-
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
-
-
-### 主观与讨论题内容
-
----
 
 
 ## 第三课代码
